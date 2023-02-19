@@ -29,12 +29,15 @@ The grid doesn't completely show. The moves of the players appear with a border 
 ## Results
 
 The gameboard
+
 ![unnamed (1)](https://user-images.githubusercontent.com/72749554/219955914-f495a1dc-bf27-4a17-b459-d85ff4faef56.png)
 
 The graph; here, the blue line represents the agent and the orange line represents the random player
+
 ![unnamed](https://user-images.githubusercontent.com/72749554/219955973-6fd6739c-2c7a-4ab3-8e5f-927b0ff8021e.png)
 
 Scores after each game
+
 ![unnamed (2)](https://user-images.githubusercontent.com/72749554/219955985-078fcc9e-fa85-44ac-af79-d225299a8cd9.png)
 
 
