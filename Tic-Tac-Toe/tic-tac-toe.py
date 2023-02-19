@@ -352,13 +352,11 @@ def main():
 
     state_winner_triples = get_state_hash_and_winner(env)
 
-    # initialize agent as p1
+   
     x_agent = X_Agent()
     x_agent.set_symbol(env.x)
     x_agent.initialize_V(env, state_winner_triples)
     
-
-    # play agent vs human
     o_agent = O_Agent()
     o_agent.set_symbol(env.o)
     total_game_played = 0
